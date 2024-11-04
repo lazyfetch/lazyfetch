@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lazyfetch
-- 👀 Backend developer on Go Language
 
 <!---
 lazyfetch/lazyfetch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
